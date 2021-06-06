@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+  
+	
+}
+.navbar{
+
+border: none;
+
+color: black;
+}
+body{
+	background-color: white;
+	color: black;
+  
+	
+}
+.icon{
+	font-size: 30px;
+	color:#61122F; 
+  
+}
+
+.center{
+	width: 90%;
+	background-color: white;
+
+}
+.container
+{
+	background-color: white;
+  border: 2px solid black;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+	text-align: center;
+}
+
+.navbar-brand{
+font-size: 30px;	
+}
